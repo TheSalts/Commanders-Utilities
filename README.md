@@ -76,6 +76,6 @@ and more...
 
 # Download
 
-[Modrinth](https://modrinth.com/modpack/commanders-utilities/versions#all-versions)
-Vanilla
+[Modrinth](https://modrinth.com/modpack/commanders-utilities/versions#all-versions)  
+[Vanilla](https://github.com/TheSalts/Commanders-Utilities/releases)https://github.com/TheSalts/Commanders-Utilities/releases  
 
