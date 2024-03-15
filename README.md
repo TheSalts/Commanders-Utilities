@@ -1,3 +1,5 @@
+# Commanders Utilities
+
 A modpack for command and datapack developers.  
 This aims to provide enhanced development environment with fps boosts.
 
@@ -11,7 +13,12 @@ This aims to provide enhanced development environment with fps boosts.
 - NBT editor  
 - Multi-version connecting  
 - Enhanced CN/JP/KR chat input
-and more...  
+and more...
+
+# Download
+
+[Modrinth](https://modrinth.com/modpack/commanders-utilities/versions#all-versions)
+Vanilla
 
 <details>
 <summary>Included mods</summary>
