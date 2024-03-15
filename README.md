@@ -15,11 +15,6 @@ This aims to provide enhanced development environment with fps boosts.
 - Enhanced CN/JP/KR chat input
 and more...
 
-# Download
-
-[Modrinth](https://modrinth.com/modpack/commanders-utilities/versions#all-versions)
-Vanilla
-
 <details>
 <summary>Included mods</summary>
 
@@ -78,4 +73,9 @@ Vanilla
 [YetAnotherConfigLib](https://modrinth.com/mod/yacl)  
 
 </details>
+
+# Download
+
+[Modrinth](https://modrinth.com/modpack/commanders-utilities/versions#all-versions)
+Vanilla
 
