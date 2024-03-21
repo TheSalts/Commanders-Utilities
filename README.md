@@ -6,7 +6,7 @@ This aims to provide enhanced development environment with fps boosts.
 # Features
 
 - FPS boost  
-- Multiple command lines in - command block  
+- Multiple command lines in command block  
 - Fix minecraft's bugs  
 - Enhanced entity UUID autocomplete  
 - NBT/JSON autocomplete  
