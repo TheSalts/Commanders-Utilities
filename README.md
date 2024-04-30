@@ -16,7 +16,7 @@ This aims to provide enhanced development environment with fps boosts.
 and more...
 
 <details>
-<summary>Included mods</summary>
+<summary>Included mods(45)</summary>
 
 [BetterF3](https://modrinth.com/mod/betterf3)  
 [Better Ping Display [Fabric]](https://modrinth.com/mod/better-ping-display-fabric)  
