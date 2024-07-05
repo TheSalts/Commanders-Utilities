@@ -16,21 +16,28 @@ This aims to provide enhanced development environment with fps boosts.
 and more...
 
 <details>
-<summary>Included mods(45)</summary>
+<summary>Included mods(57)</summary>
 
+[Command Block IDE 1.21 fork (temporary)](https://github.com/najoan125/command-block-ide-fork/releases/tag/0.4.7+build.2)  
+[Korean Patch (temporary)](https://modrinth.com/mod/korean-chat-patch)  
+
+[Better Highlighting](https://modrinth.com/mod/better-highlighting)  
 [BetterF3](https://modrinth.com/mod/betterf3)  
 [Better Ping Display [Fabric]](https://modrinth.com/mod/better-ping-display-fabric)  
+[Datamancer](https://modrinth.com/mod/datamancer)  
 [Debugify](https://modrinth.com/mod/debugify)  
 [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)  
 [NBT Autocomplete](https://modrinth.com/mod/nbt-autocomplete)  
 [ViaFabric](https://modrinth.com/mod/viafabric)  
 [ViaVersion](https://modrinth.com/mod/viaversion)  
+[ViaBackwards](https://modrinth.com/mod/viabackwards)  
+[ViaRewind](https://modrinth.com/mod/viarewind)  
 [AntiGhost](https://modrinth.com/mod/antighost)  
 [bad packets](https://modrinth.com/mod/badpackets)  
 [Better Suggestions](https://modrinth.com/mod/better-suggestions)  
 [Carpet Extra](https://modrinth.com/mod/carpet-extra)  
 [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes)  
-[Carpet TIS Addition](https://modrinth.com/mod/carpet-tis-addition) 
+[Carpet TIS Addition](https://modrinth.com/mod/carpet-tis-addition)  
 [caramelChat](https://modrinth.com/mod/caramel-chat)  
 [Cloth Config API](https://modrinth.com/mod/cloth-config)  
 [Command Macros](https://modrinth.com/mod/command-macros)  
